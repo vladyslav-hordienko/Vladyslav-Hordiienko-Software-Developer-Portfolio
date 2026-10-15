@@ -1,6 +1,5 @@
 
 # Vladyslav Hordiienko — Software Development & Data Portfolio
-
 ---
 
 ## Java & Algorithms
@@ -25,17 +24,7 @@ Selection Sort, Quick Sort, and Merge Sort are tested on arrays of different siz
 
 ---
 
-## Python & Backend Development
-
-### [SQL Helper](https://github.com/vladyslav-hordienko/SQL_Helper)
-
-A Python web application for practising and checking SQL queries using a sample SQLite sales database. SQLGlot handles query parsing and validation, with only read-only `SELECT` and `WITH` statements permitted to protect the database. The interface includes query previews, validation messages, practice exercises, and support for optional OpenAI API integration.
-
-**Technologies:** Python, SQLite, SQLGlot, HTML, CSS, JavaScript
-
----
-
-## Python & Data Analytics
+## Python
 
 ### [Sales & Traffic Analysis](https://colab.research.google.com/drive/1hOoHGm3nnuUyAwyKzxi3VSY3nRgIL4F8?usp=sharing)
 
@@ -49,9 +38,15 @@ Three related datasets were combined and analysed in Python, covering 1,330 orde
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 
+### [SQL Helper](https://github.com/vladyslav-hordienko/SQL_Helper)
+
+A Python web application for practising and checking SQL queries using a sample SQLite sales database. SQLGlot handles query parsing and validation, with only read-only `SELECT` and `WITH` statements permitted to protect the database. The interface includes query previews, validation messages, practice exercises, and support for optional OpenAI API integration.
+
+**Technologies:** Python, SQLite, SQLGlot, HTML, CSS, JavaScript
+
 ---
 
-## SQL & Database Analysis
+## SQL
 
 ### [Email & Account Activity Analysis](https://github.com/jhgjvvjk/Email-Account-Activity-Analysis/blob/main/main)
 
